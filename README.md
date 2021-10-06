@@ -1,7 +1,11 @@
-# Vue 3 + Vite
+# Clocks
+This is a simple vue app that explors time in different numerical formats.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Purpose
+Dipping my toes in the vuejs waters
 
-## Recommended IDE Setup
+# Use
+more to come
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+# Contact
+Max Renner rennerom@gmail.com
