@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+html, body, #app {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(235, 235, 235);
+    font-size: larger;
+    margin:0;
+  }
+  
+  #app {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    font-family: 'Source Code Pro';
+    color: rgb(182, 126, 180);
+  }
+
+h1 {
+  height:20vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+
+#app .k-container{
+  z-index: 10;
+}
+.page-title {
+  text-align: center;
+  color: rgb(182, 126, 180);
+  text-shadow: 5px 5px 3px rgba(46, 4, 63, 0.2);
+}
+
+.datetime {
+  border-radius: .8em;
+  background-color: white;
+  margin: 1em;
+  padding: 1em;
+  box-shadow: 2px 3px 5px rgba(0,0,0,0.1);
+}
+  
+.datetime h2, p {
+  margin: 0 .4rem;
+  padding:.4rem;
+}
+
+.time-display {
+  font-size: .8em;
+  font-weight: lighter;
+}
