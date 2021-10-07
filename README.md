@@ -1,5 +1,5 @@
 # Clocks
-This is a simple vue app that explores dates and times in different numerical formats, as well as plays with different parallax techniques.
+This is a simple vue app that explores dates and times in different numeral systems, as well as plays with different parallax techniques.
 
 ![example](assets/example.png)
 
