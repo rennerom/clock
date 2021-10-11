@@ -1,6 +1,8 @@
 # Clocks
 This is a simple vue app that explores dates and times in different numeral systems, as well as plays with different parallax techniques.
 
+[Demo](https://quizzical-elion-89161c.netlify.app/)
+
 ![example](assets/example.png)
 
 # Purpose
